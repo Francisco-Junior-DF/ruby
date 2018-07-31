@@ -20,3 +20,13 @@ comentário em várias linhas
 ****************************
 ****************************
 =end
+valor1 = 10
+valor2 = 2
+
+puts "#{valor1} + #{valor2} = #{valor1+valor2}"
+puts ""
+valorstring = "1"
+valorstring2 = "2.5"
+
+puts 2 * valorstring.to_i
+puts 2 + valorstring2.to_f
